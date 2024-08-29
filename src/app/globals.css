@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'KantumruyProMedium';
+  src: url('/fonts/KantumruyPro-Medium.ttf') format('truetype');
+}
+
+.KantumruyProMedium{
+  font-family: 'KantumruyProMedium' !important;
+}
+
+
+ 
